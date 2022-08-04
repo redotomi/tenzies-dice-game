@@ -20,6 +20,27 @@ main {
   margin-top: 30px;
 }
 
+.title {
+  font-size: 40px;
+  color: #2B283A;
+  margin: 0;
+  padding-top: 20px;
+  margin-bottom: 25px;
+}
+
+.instructions {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: #4A4E74;
+  margin: 0px 45px;
+  text-align: center;
+}
+
+.count {
+  margin-top: 10px;
+  font-weight: 700;
+}
+
 .die {
   font-size: 40px;
   display: flex;
